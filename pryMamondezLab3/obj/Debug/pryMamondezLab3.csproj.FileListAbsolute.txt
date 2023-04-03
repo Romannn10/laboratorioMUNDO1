@@ -1,0 +1,11 @@
+D:\Escritorio\pryMamondezLab3\bin\Debug\pryMamondezLab3.exe.config
+D:\Escritorio\pryMamondezLab3\bin\Debug\pryMamondezLab3.exe
+D:\Escritorio\pryMamondezLab3\bin\Debug\pryMamondezLab3.pdb
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.csproj.AssemblyReference.cache
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.Form1.resources
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.Properties.Resources.resources
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.csproj.GenerateResource.cache
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.exe
+D:\Escritorio\pryMamondezLab3\obj\Debug\pryMamondezLab3.pdb
